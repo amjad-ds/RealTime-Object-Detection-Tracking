@@ -29,7 +29,7 @@ A real-time object detection and tracking system using YOLOv3 and Flask.
    pip install flask opencv-python
    ```
 
-2. Make sure `yolov3.weights` is present in the project folder (download from [YOLO website](https://pjreddie.com/darknet/yolo/)).
+2. Make sure `yolov3.weights` is present in the project folder (download from [KAGGLE website](https://www.kaggle.com/datasets/shivam316/yolov3-weights?resource=download)).
 
 3. Run the app:
    ```
